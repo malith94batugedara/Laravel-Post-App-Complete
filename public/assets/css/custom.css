@@ -1,0 +1,33 @@
+.bg-green{
+    background-color: #095E25 !important;
+}
+.navbar{
+    padding : 0px 50px ;
+}
+.navbar-nav .nav-link{
+    color:#fff !important;
+    font-weight: 600;
+    border-right: 1px solid;
+    padding:8px 18px !important;
+}
+.owl-nav button.owl-next,.owl-nav button.owl-prev{
+    color:#fff !important;
+    margin-left: 10px;
+    background-color: orange !important;
+    border: none !important;
+    outline:none;
+    font-size: 20px !important;
+    height: 28px;
+    width: 38px !important;
+
+}
+.underline{
+    height:3px;
+    width:60px;
+    background-color: red;
+    margin-bottom: 10px;
+}
+
+.bg-gray{
+    background-color: grey;
+}
